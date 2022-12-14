@@ -33,6 +33,8 @@ Update the application code in
 Then add/commit/push to gitlab
 
 ```
+
+Checking Jenkins now (fem)
 git status # to see your changes
 ```
 
