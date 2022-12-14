@@ -34,7 +34,7 @@ Then add/commit/push to gitlab
 
 ```
 
-Checking Jenkins now (fem)
+
 git status # to see your changes
 ```
 
@@ -74,3 +74,6 @@ Default web root:
 ```
 
 ## If you require permissions to GCP, or Gitlab resources, please talk to dare@propitix.com
+
+
+Checking Jenkins now (fem)
